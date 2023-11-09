@@ -7,7 +7,7 @@ accounts:
   message: "Welcome to Bank Account Related APIs"
   contactDetails:
     name: "Pritesh Desai"
-    email: "${cipher}0d6a1f2ab6b7398b14f058289c294cfad45972106063ca888e74363c9246bfe996208ebc66ef576722efc85c68917789" 
+    email: "{cipher}0d6a1f2ab6b7398b14f058289c294cfad45972106063ca888e74363c9246bfe996208ebc66ef576722efc85c68917789" 
   onCallSupport:
     - (555)555-1234
     - (555)523-1345
