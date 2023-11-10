@@ -4,7 +4,7 @@
 
 # accounts is created to read the application property with the list. Need to Create the POJO class and using the @ConfigurationProperties we can read that List of configurations 
 accounts:
-  message: "Welcome to Bank Account Related APIs Devlopment webhook Related Change edit"
+  message: "Welcome to Bank Account Related APIs Devlopment webhook Related Change edit Update"
   contactDetails:
     name: "Pritesh Desai Devlopment"
     email: "{cipher}2c345232637d8e4453f3c2eee0ec4bfb70712e4c89884786a80f6cf527a1a7b5f3970898decd6571d3580bde2d069edd" 
