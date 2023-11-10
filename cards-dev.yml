@@ -3,9 +3,9 @@
 
 # cards is created to read the application property with the list. Need to Create the POJO class and using the @ConfigurationProperties we can read that List of configurations 
 cards:
-  message: "Welcome to Bank Cards Related APIs Dev"
+  message: "Welcome to Bank Cards Related APIs Devlopment"
   contactDetails:
-    name: "Pritesh Desai Dev"
+    name: "Pritesh Desai Devlopment"
     email: "priteshdesai811Dev@gmail.com" 
   onCallSupport:
     - (555)555-1234
